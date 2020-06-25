@@ -1,0 +1,11 @@
+
+# Leave these out for now, they are long, rough, and likely need to have
+# articles extracted from them, and a rough draft of a protocol can not simply
+# be a documentation style free-form article. It needs to follow RFC-style model
+# rather than the ever lower quality stream of white papers coming out of the
+# cryptocurrency community. 
+
+# These need to include full protocol description, connection charts, math, and
+# figures expected of scientific artices. 
+frameworks/gravity/*
+frameworks/blueshift/*
